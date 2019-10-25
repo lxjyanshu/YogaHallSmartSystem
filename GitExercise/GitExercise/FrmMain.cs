@@ -10,6 +10,9 @@ using System.Windows.Forms;
 
 namespace GitExercise
 {
+    /// <summary>
+    /// 
+    /// </summary>
     public partial class FrmMain : Form
     {
         public FrmMain()
